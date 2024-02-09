@@ -6,7 +6,7 @@ This is a simple WebSocket application implemented using FastAPI.
 
 ## WebSockets
 
-WebSocket is a communication protocol that provides full-duplex communication channels over a single, long-lived connection. Unlike traditional HTTP, which follows a request-response model, WebSockets enable real-time, bidirectional communication between clients and servers.
+WebSocket is a cross-platform communication protocol between a server and client, that enables bi-directional communication channels over a single, long-lived TCP connection. Unlike traditional HTTP, which follows a request-response model, WebSockets enable real-time, bidirectional communication between clients and servers.
 
 Key features of WebSockets:
 
